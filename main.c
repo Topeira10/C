@@ -129,10 +129,6 @@ int JogoTerminou() {
                     return 2;
                 }
             }
-
-            /*if (matriz[i][j] == '-'){
-                return 0;
-            } */
         }
     }
 
